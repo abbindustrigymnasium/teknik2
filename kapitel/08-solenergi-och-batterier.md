@@ -137,36 +137,6 @@ En multimeter i strömläge ska kopplas i **serie**, och en voltmeter **parallel
 6. Hur ska en amperemeter kopplas?
 7. Varför är antagandena i en dimensionering viktiga att skriva ut?
 
-## Övningar
-
-**Grund.** En panel är 0,10 m · 0,07 m och levererar 0,8 W vid 700 W/m². Beräkna verkningsgraden.
-
-<details><summary>Svar</summary>
-
-Tillförd effekt: 700 · 0,007 = 4,9 W. Verkningsgrad: 0,8 / 4,9 ≈ 0,163, cirka 16 %.
-
-</details>
-
-**Grund.** En 3,7 V-cell har kapaciteten 1 800 mAh. Hur mycket energi lagrar den?
-
-<details><summary>Svar</summary>
-
-1,8 Ah · 3,7 V = 6,66 Wh.
-
-</details>
-
-**Vidare.** En LED-lampa drar 0,5 W i 6 timmar per natt. Hur mycket energi behövs per natt? Räcker ett batteri på 6,66 Wh med 90 % användbar kapacitet?
-
-<details><summary>Svar</summary>
-
-0,5 · 6 = 3,0 Wh. Användbart: 6,66 · 0,9 ≈ 6,0 Wh. Det räcker i ungefär två nätter.
-
-</details>
-
-**Vidare.** Mät en IV-kurva för din panel i två olika vinklar och beräkna MPP. Hur mycket skiljer det?
-
-**Utmaning.** Dimensionera ett system för en sensor som drar 10 mA vid 3,3 V konstant. Välj antaganden, beräkna hur stort batteri och hur stor panel som krävs för tre mulna dagar. Redovisa alla antaganden.
-
 ## Koppling till projektet
 
 Det här är grunden för [MikroGrid](../projekt/mikrogrid/README.md). Du mäter IV-kurvor, dimensionerar ett system och kontrollerar att beräkningarna stämmer. Eftersom ni ska mäta under belastning hör [kapitel 6](06-kvalitet-och-risk.md) ihop med det här kapitlet.

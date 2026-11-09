@@ -124,30 +124,6 @@ Litiumbatterier innehåller mycket energi i liten volym. Vid kortslutning, mekan
 6. Vad betyder D i FMEA?
 7. Vilka tre orsaker kan få ett litiumbatteri att överhettas och börja brinna?
 
-## Övningar
-
-**Grund.** Mätvärdena är 12, 13, 12, 14 och 45. Beräkna medelvärde och median.
-
-<details><summary>Svar</summary>
-
-Medelvärde: 96 / 5 = 19,2. Sorterat: 12, 12, 13, 14, 45. Medianen är 13.
-
-</details>
-
-**Grund.** En risk har sannolikhet 3 och konsekvens 4. Beräkna risktalet.
-
-<details><summary>Svar</summary>
-
-3 · 4 = 12.
-
-</details>
-
-**Vidare.** Gör en riskanalys för ett av projekten med minst fem risker och åtgärder.
-
-**Vidare.** Skriv ett mätprotokoll för att mäta hur lång tid bilen tar för att köra 2 meter.
-
-**Utmaning.** Gör en FMEA för laddningskretsen i MikroGrid med minst fyra felsätt. Beräkna RPN. Vilken åtgärd skulle du göra först och varför?
-
 ## Koppling till projektet
 
 I [Robotmopp](../projekt/robotmopp/README.md) följer du ett mätprotokoll på arenan och jämför körningar. I [MikroGrid](../projekt/mikrogrid/README.md) ingår en enkel riskanalys för batterihantering och kvalitetssäkring genom belastningstester. I [Databaser och mobil apputveckling](../projekt/databaser-och-mobilapp/README.md) tillämpar du samma tänkande på testning av regler och funktioner.

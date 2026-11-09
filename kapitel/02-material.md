@@ -136,28 +136,6 @@ En konstruktion finns för att uppfylla ett **behov**. När du analyserar den ka
 6. Vad är skillnaden mellan biobaserad och biologiskt nedbrytbar?
 7. Varför bör du vara försiktig med påståenden om vad grafen kommer att göra?
 
-## Övningar
-
-**Grund.** En felfri träkloss med tvärsnittet 30 × 30 mm trycks längs fibrerna. Hur stor kraft tål den ungefär, med 50 MPa?
-
-<details><summary>Svar</summary>
-
-A = 900 mm². F = 50 · 900 = 45 000 N = 45 kN.
-
-</details>
-
-**Grund.** Du återvinner 10 kg aluminium i stället för att framställa ny metall. Hur mycket energi sparas, med genomsnittsvärdena ovan? Ange svaret i MJ och kWh (1 kWh = 3,6 MJ).
-
-<details><summary>Svar</summary>
-
-Primär: 10 kg · 186 MJ/kg = 1 860 MJ. Återvunnen: 10 · 8,3 = 83 MJ. Besparing: 1 777 MJ, vilket är 1 777 / 3,6 ≈ 494 kWh. (186 GJ/ton är samma sak som 186 MJ/kg.)
-
-</details>
-
-**Vidare.** Välj två av materialen i kapitlet till ett skyddshölje för en sensor som ska sitta utomhus. Motivera med hållfasthet, fukt och miljö.
-
-**Utmaning.** Analysera en konstruktion du använder varje dag med de sex frågorna. Föreslå en förändring som gör den bättre för någon som i dag får det svårare med produkten.
-
 ## Koppling till projektet
 
 I [Laserskär](../projekt/laserskar/README.md) ska du konstruera i tunt trä, och fibrernas riktning avgör om tappar och smala delar håller. I [Robotmopp](../projekt/robotmopp/README.md) väljer du material till chassit, och i [MikroGrid](../projekt/mikrogrid/README.md) återkommer aluminium, kisel och batterimetaller i livscykelanalysen.

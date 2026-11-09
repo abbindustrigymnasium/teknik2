@@ -146,36 +146,6 @@ Vid 0,36 m/s tar det 17,75 / 0,36 ≈ 49 sekunder. Det är den bästa tänkbara 
 6. Varför används tillståndet BACKA_SVANG i stället för att svänga på stället?
 7. Varför kan tiden 49 sekunder inte uppnås i verkligheten på arenan?
 
-## Övningar
-
-**Grund.** Vilken kolumn hamnar positionen x = 3,1 i med koden ovan?
-
-<details><summary>Svar</summary>
-
-3,1 / 11 · 8 ≈ 2,25, och int ger kolumn 2.
-
-</details>
-
-**Grund.** Bilen kör i 0,5 m/s och fördröjningen är 200 ms. Hur långt hinner bilen innan stoppkommandot verkar?
-
-<details><summary>Svar</summary>
-
-0,5 · 0,2 = 0,1 m = 10 cm.
-
-</details>
-
-**Vidare.** Lägg till ett tillstånd `STANNA` som bilen går till innan den backar, i exempelprogrammet. Rita först tillståndsdiagrammet och ändra sedan koden.
-
-**Vidare.** Uppskatta en minsta möjlig tid för en arena på 3 × 3 m med raderna 25 cm isär och farten 0,36 m/s. Antag 12 sträckor på 3 m och 11 förflyttningar.
-
-<details><summary>Svar</summary>
-
-Väg: 12 · 3 + 11 · 0,25 = 38,75 m. Tid: 38,75 / 0,36 ≈ 108 s.
-
-</details>
-
-**Utmaning.** Skriv ett litet Python-program som jämför två strategier på ett rutnät: att gå fram och tillbaka rad för rad och att slumpa nästa ruta. Mät hur många steg det tar att täcka allt.
-
 ## Koppling till projektet
 
 Kapitlet är grunden för [Robotmopp](../projekt/robotmopp/README.md). Labb 8 gör simuleringen, labb 9 kopplar ROS2 till bilen via bryggan, och labb 10 flyttar städlogiken till golvet och jämför resultaten med simuleringen.

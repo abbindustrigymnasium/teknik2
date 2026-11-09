@@ -111,30 +111,6 @@ Den tekniska utvecklingen rör sig snabbt. Solceller med nya halvledarmaterial, 
 7. Ge ett eget exempel på hur antaganden om användare kan göra en produkt sämre för vissa.
 8. Hur skiljer du på demonstrerad teknik och teknik i stor skala?
 
-## Övningar
-
-**Grund.** Lampa C ger 4,0 kg CO₂e vid tillverkningen och håller i 8 år. Beräkna utsläppen per år.
-
-<details><summary>Svar</summary>
-
-4,0 / 8 = 0,5 kg CO₂e per år.
-
-</details>
-
-**Grund.** Ett solsystem har energiåterbetalningstid 1,5 år och livslängd 25 år. Hur många gånger mer energi ger det än det krävde?
-
-<details><summary>Svar</summary>
-
-25 / 1,5 ≈ 16,7, alltså ungefär 17 gånger.
-
-</details>
-
-**Vidare.** Gör en förenklad LCA för en vattenflaska, och välj en funktionell enhet. Vilka steg är viktigast? Vilka uppgifter saknas?
-
-**Vidare.** Välj en produkt du använder och gå igenom tabellen ovan. Föreslå en förändring.
-
-**Utmaning.** Jämför två sätt att driva en sensornod: engångsbatterier eller litiumbatteri med solpanel. Bestäm funktionell enhet, ta reda på uppgifter från pålitliga källor och redovisa vad som är osäkert.
-
 ## Koppling till projektet
 
 I fas 4 av [MikroGrid](../projekt/mikrogrid/README.md) ska du göra en analys av solenergisystemets värdekedja, från råvara till återvinning, och väga miljövinster mot sociala och etiska frågor. Med tankesättet från kapitlet går det också att granska [Robotmopp](../projekt/robotmopp/README.md) och [Laserskär](../projekt/laserskar/README.md).

@@ -27,13 +27,13 @@ En **CAD-modell** (Computer Aided Design) är en digital beskrivning av ett för
 
 ### Parametriska modeller
 
-I program som Autodesk Inventor bygger du delar med **skisser** och **features**, till exempel extrudering. Modellen är **parametrisk**, vilket betyder att måtten är värden som kan ändras. Om du lägger materialets tjocklek i en parameter behöver du bara ändra på ett ställe när skivan visar sig vara tunnare än väntat.
+I Onshape, som körs i webbläsaren, bygger du delar med **skisser** och **features**, till exempel Extrude, i en flik som heter **Part Studio**. Alla delar som ska passa mot varandra kan ligga i samma Part Studio. Modellen är **parametrisk**, vilket betyder att måtten är värden som kan ändras. Om du lägger materialets tjocklek i en variabel, till exempel `#tjocklek`, behöver du bara ändra på ett ställe när skivan visar sig vara tunnare än väntat. Dokumentet ligger i molnet, så du behöver nätverk och ditt Onshape-konto för att arbeta, men du kan också dela dokumentet och arbeta i det samtidigt som en kamrat. Läraren berättar hur du får ditt konto.
 
 ### Sammanställning
 
-En **assembly** (sammanställning) är en modell där flera delar sätts ihop med villkor. Där upptäcker du om delar krockar med varandra och om måtten stämmer. Det är mycket billigare att flytta en slits i CAD än att skära en ny skiva. Det gäller både mobilhållaren och robotens chassi, där motorn, servot och kretskortet måste få plats samtidigt.
+En **assembly** (sammanställning) är en modell där flera delar sätts ihop med **mates**, som bestämmer hur delarna får röra sig mot varandra. En Fastened mate låser två delar helt. Med verktyget Interference detection hittar du delar som tar i varandra. Där upptäcker du om delar krockar med varandra och om måtten stämmer. Det är mycket billigare att flytta en slits i CAD än att skära en ny skiva. Det gäller både mobilhållaren och robotens chassi, där motorn, servot och kretskortet måste få plats samtidigt.
 
-För laserskärning exporterar du delarna till **DXF**, ett 2D-format med linjer som maskinens program kan läsa.
+För laserskärning exporterar du delarna till **DXF**, ett 2D-format med linjer som maskinens program kan läsa. I Onshape högerklickar du på delens plana yta i Part Studio och väljer **Export as DXF/DWG**. Välj millimeter som enhet. Sedan öppnar du filen i skärprogrammet.
 
 ## Från CAD till fysisk del
 
@@ -117,41 +117,14 @@ Laserskärning ger rök och heta partiklar. Följ alltid lärarens genomgång. G
 6. Varför ska smala delar läggas längs fiberriktningen?
 7. Varför är det viktigt att mäta skivans tjocklek?
 
-## Övningar
-
-**Grund.** En ritning har skala 1:5, och en längd är 40 mm på ritningen. Hur lång är den i verkligheten?
-
-<details><summary>Svar</summary>
-
-40 · 5 = 200 mm.
-
-</details>
-
-**Grund.** Du mäter skivans tjocklek till 2,90 mm. Skärbredden är 0,15 mm. Vilken bredd ska du rita slitsen för att den ska bli lika bred som skivan är tjock?
-
-<details><summary>Svar</summary>
-
-2,90 − 0,15 = 2,75 mm. Efter skärning: 2,75 + 0,15 = 2,90 mm.
-
-</details>
-
-**Vidare.** Du ska få plats med delar på ett A4-ark (210 × 297 mm). Delarna är 120 × 80 mm, två stycken 90 × 60 mm samt 120 × 40 mm. Hur stor andel av arket används? Föreslå hur du placerar delarna.
-
-<details><summary>Svar</summary>
-
-Arket: 210 · 297 = 62 370 mm². Delarna: 9 600 + 2 · 5 400 + 4 800 = 25 200 mm². Andel: 25 200 / 62 370 ≈ 0,40, alltså cirka 40 %.
-
-</details>
-
-**Utmaning.** Konstruera en liten provbit med fem slitsar vars bredd skiljer sig 0,05 mm åt. Skär den och använd resultatet för att bestämma din maskins och din skivas bästa slitsbredd.
-
 ## Koppling till projektet
 
-I [Laserskär](../projekt/laserskar/README.md) använder du allt från det här kapitlet: delar i Inventor, assembly, kompensation för skärbredd och DXF-export. Samma tänkande om mått och monteringsbarhet använder du när du ritar chassit i [Robotmopp](../projekt/robotmopp/README.md).
+I [Laserskär](../projekt/laserskar/README.md) använder du allt från det här kapitlet: delar i Onshape, assembly, kompensation för skärbredd och DXF-export. Samma tänkande om mått och monteringsbarhet använder du när du ritar chassit i [Robotmopp](../projekt/robotmopp/README.md).
 
 ## Läs mer
 
-- [Projektbeskrivning Laserskär (docx)](https://github.com/abbindustrigymnasium/Konstruktion1/blob/main/Lasersk%C3%A4r%20mobil%20och%20pennh%C3%A5llare.docx)
+- [Projektbeskrivning Laserskär (docx)](https://github.com/abbindustrigymnasium/Konstruktion1/blob/main/Lasersk%C3%A4r%20mobil%20och%20pennh%C3%A5llare.docx). Beskrivningen är skriven för ett annat CAD-program. Kraven gäller, men du gör CAD-arbetet i Onshape.
+- [Exportera filer i Onshapes hjälp](https://cad.onshape.com/help/Content/File/exporting_files.htm)
 - [Svenska institutet för standarder (SIS)](https://www.sis.se/)
 
 [← Föregående](02-material.md) | [Innehåll](../README.md) | [Nästa →](04-elektronik.md)

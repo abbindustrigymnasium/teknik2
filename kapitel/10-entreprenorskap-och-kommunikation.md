@@ -121,22 +121,6 @@ Anpassa språket efter lyssnaren. En klasskamrat, en elingenjör och en kund beh
 6. Vad ska finnas i ett diagram för att det ska kunna läsas på egen hand?
 7. Varför ska du redovisa sådant som inte fungerade?
 
-## Övningar
-
-**Grund.** Fasta kostnader är 12 000 kr, försäljningspris 250 kr och rörliga kostnader 100 kr per styck. Beräkna nollpunkten.
-
-<details><summary>Svar</summary>
-
-Bidrag: 250 − 100 = 150 kr. Nollpunkt: 12 000 / 150 = 80 stycken.
-
-</details>
-
-**Vidare.** Beskriv en av kursens projekt som en affärsmodell. Vem är kunden, vad betalar den för och vad kostar det?
-
-**Vidare.** Gör ett diagram av dina mätdata. Be en kamrat tolka det utan att du förklarar något. Vad behövde du ändra?
-
-**Utmaning.** Föreslå en cirkulär affärsmodell för ert MikroGrid-system. Beräkna nollpunkten med egna antaganden, och beskriv hur modellen påverkar konstruktionen.
-
 ## Koppling till projektet
 
 Kapitlet används i slutet av varje projekt. I [MikroGrid](../projekt/mikrogrid/README.md) sammanställer du en teknisk rapport och visar prototypen på en teknisk mässa. I [Robotmopp](../projekt/robotmopp/README.md) visar du en demo på robotbanan. I [Laserskär](../projekt/laserskar/README.md) dokumenterar du konstruktionen, och i [Databaser och mobil apputveckling](../projekt/databaser-och-mobilapp/README.md) visar du designen och appen.

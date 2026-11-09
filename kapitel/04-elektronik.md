@@ -152,42 +152,6 @@ Vad en PWM-procent ger i meter per sekund beror på motor, batteri och underlag.
 7. Varför säger en PWM-procent inte hur fort bilen kör?
 8. Varför behövs elektronik för att reglera en robot, när det finns mekaniska regulatorer?
 
-## Övningar
-
-**Grund.** En resistor på 330 Ω har 3,3 V över sig. Hur stor är strömmen?
-
-<details><summary>Svar</summary>
-
-I = U / R = 3,3 / 330 = 0,010 A = 10 mA.
-
-</details>
-
-**Grund.** Ekot tar 1 000 µs. Hur långt bort är hindret?
-
-<details><summary>Svar</summary>
-
-1 000 · 0,034 / 2 = 17 cm.
-
-</details>
-
-**Vidare.** Hastighetsvärdet är 300 av 1023 och matningen är 6 V. Beräkna duty cycle och medelspänning.
-
-<details><summary>Svar</summary>
-
-300 / 1023 ≈ 29 %. Medelspänningen är ungefär 0,29 · 6 ≈ 1,8 V.
-
-</details>
-
-**Vidare.** Rita upp robotmoppen som ett input-process-output-diagram. Märk vilka signaler som är analoga och vilka som är digitala.
-
-**Utmaning.** LDR-värdet är 4 kΩ i ljust och 15 kΩ i mörkt läge med R2 = 10 kΩ och 3,3 V. Beräkna avläst värde i båda lägen (0–1023 för 0–3,3 V) och föreslå en tröskel. Motivera varför du inte lägger tröskeln precis vid det ena värdet.
-
-<details><summary>Svar</summary>
-
-Ljust: 3,3 · 10 / 14 ≈ 2,36 V, vilket ger cirka 731. Mörkt: 3,3 · 10 / 25 = 1,32 V, vilket ger cirka 409. En tröskel runt mitten (cirka 570) ger marginal åt båda hållen om ljuset eller golvet varierar.
-
-</details>
-
 ## Koppling till projektet
 
 I [Robotmopp](../projekt/robotmopp/README.md) är bilen just ett sådant system: givare, program, motor och servo. Labb 9 och 10 kräver att du förstår spänningsdelaren, PWM och ultraljudet. I [MikroGrid](../projekt/mikrogrid/README.md) arbetar du med effekt, spänning och ström på energisidan, och där mäter du i kretsen för att verifiera dina beräkningar.

@@ -132,24 +132,6 @@ Digitalisering är inte automatiskt bra eller dålig. Vem som vinner och förlor
 6. Vad innebär dataminimering? Ge ett exempel.
 7. Vilka två fördelar och två risker ser du med digitalisering i en fabrik?
 
-## Övningar
-
-**Grund.** Identifiera tabeller, fält och relationer för en app där elever bokar en tid hos en handledare.
-
-**Grund.** Hur stor blir en tabell med 5 000 rader om varje rad tar 2 kB?
-
-<details><summary>Svar</summary>
-
-5 000 · 2 kB = 10 000 kB, alltså ungefär 10 MB.
-
-</details>
-
-**Vidare.** Skriv API-regler i ord för ett bokningssystem: vem får se, skapa, ändra och ta bort en bokning?
-
-**Vidare.** Skriv en SQL-fråga som räknar antal kommentarer per inlägg.
-
-**Utmaning.** Du ska utveckla en tjänst som samlar platsdata från en elevs mobil för att mäta skolvägar. Beskriv vilka personuppgifter som samlas in, vad du skulle minimera och vilka etiska problem som uppstår. Föreslå ett alternativ som kräver mindre data.
-
 ## Koppling till projektet
 
 I [Databaser och mobil apputveckling](../projekt/databaser-och-mobilapp/README.md) designar du databasen för ert förstudieprojekt, bygger Kvittra i PocketBase och gör en Flutter-app som pratar med den. Kapitlets modell med tabeller, relationer och regler använder du direkt.

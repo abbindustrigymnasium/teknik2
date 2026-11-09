@@ -137,30 +137,6 @@ När ni arbetar flera tillsammans behöver ansvaret vara tydligt, annars gör tv
 6. Varför är en komponentlista mer än en inköpslista?
 7. Hur kan otydliga roller i en grupp göra att en uppgift inte blir gjord?
 
-## Övningar
-
-**Grund.** Skriv om kravet "appen ska vara snabb" så att det går att testa.
-
-**Grund.** En bil täckte 47 av 64 rutor. Hur stor är täckningen i procent?
-
-<details><summary>Svar</summary>
-
-47 / 64 = 0,734, ungefär 73 %.
-
-</details>
-
-**Vidare.** Välj en vardagsprodukt, till exempel en cykellampa. Skriv fem verifierbara krav på den, varav minst ett om reparation eller återvinning.
-
-**Vidare.** Gör en arbetsnedbrytning med minst sex delmoment för ett projekt i kursen. Markera två milstolpar som går att visa upp.
-
-**Utmaning.** Jämför två körningar: körning A täckte 52 rutor på 3 minuter, körning B täckte 44 rutor på 2 minuter. Räkna ut täckning och täckta rutor per minut för båda. Vilken var bäst? Förklara varför svaret beror på vad du väljer att värdera.
-
-<details><summary>Svar</summary>
-
-A: 52 / 64 = 81 % och 52 / 3 = 17,3 rutor per minut. B: 44 / 64 = 69 % och 44 / 2 = 22 rutor per minut. A täcker mest totalt, B täcker snabbast. Vilken som är bäst beror på om kravet handlar om slutresultat eller om tid.
-
-</details>
-
 ## Koppling till projektet
 
 Arbetssättet används i alla projekt. Tydligast syns det i [Robotmopp](../projekt/robotmopp/README.md), där du börjar med projektplan och komponentlista, och i [MikroGrid](../projekt/mikrogrid/README.md), där dimensionering och verifiering av krav står i centrum. I [Laserskär](../projekt/laserskar/README.md) går du igenom hela kedjan i liten skala.
