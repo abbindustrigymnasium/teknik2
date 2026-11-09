@@ -141,17 +141,6 @@ Vad en PWM-procent ger i meter per sekund beror på motor, batteri och underlag.
 - **PWM:** snabb på- och avslagning som ger en inställbar genomsnittseffekt.
 - **Motordrivare:** krets mellan styrsignal och motor.
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan elektricitet och elektronik?
-2. Beskriv en mikrovågsugn med input, process och output.
-3. Vad är skillnaden mellan styrning och reglering? Ge ett eget exempel på vardera.
-4. Varför delas tiden med 2 när ultraljudet används för att mäta avstånd?
-5. Varför behövs en spänningsdelare när du läser av en LDR?
-6. Varför kan inte mikrokontrollern driva motorn direkt?
-7. Varför säger en PWM-procent inte hur fort bilen kör?
-8. Varför behövs elektronik för att reglera en robot, när det finns mekaniska regulatorer?
-
 ## Koppling till projektet
 
 I [Robotmopp](../projekt/robotmopp/README.md) är bilen just ett sådant system: givare, program, motor och servo. Labb 9 och 10 kräver att du förstår spänningsdelaren, PWM och ultraljudet. I [MikroGrid](../projekt/mikrogrid/README.md) arbetar du med effekt, spänning och ström på energisidan, och där mäter du i kretsen för att verifiera dina beräkningar.

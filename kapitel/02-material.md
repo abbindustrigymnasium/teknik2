@@ -126,16 +126,6 @@ En konstruktion finns för att uppfylla ett **behov**. När du analyserar den ka
 - **Anisotropt:** egenskaperna beror på riktning.
 - **Legering:** metall med tillsatser som ger andra egenskaper.
 
-## Testa dig själv
-
-1. Varför är det fel att säga att trä generellt tål tryck dåligt?
-2. Varför kan samma material vara rätt i ett fall och fel i ett annat?
-3. Vad är det som gör aluminiumlegeringar så mycket starkare än ren aluminium?
-4. Vad väger man in om man ska bedöma aluminiumets miljöpåverkan?
-5. Varför säger "plast" i sig lite om hållfastheten?
-6. Vad är skillnaden mellan biobaserad och biologiskt nedbrytbar?
-7. Varför bör du vara försiktig med påståenden om vad grafen kommer att göra?
-
 ## Koppling till projektet
 
 I [Laserskär](../projekt/laserskar/README.md) ska du konstruera i tunt trä, och fibrernas riktning avgör om tappar och smala delar håller. I [Robotmopp](../projekt/robotmopp/README.md) väljer du material till chassit, och i [MikroGrid](../projekt/mikrogrid/README.md) återkommer aluminium, kisel och batterimetaller i livscykelanalysen.

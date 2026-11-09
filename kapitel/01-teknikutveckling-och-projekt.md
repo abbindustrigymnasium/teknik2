@@ -127,16 +127,6 @@ När ni arbetar flera tillsammans behöver ansvaret vara tydligt, annars gör tv
 - **Projektlogg:** löpande anteckningar om vad som gjorts och varför.
 - **Agilt arbete:** arbete i korta perioder som var och en ger något som går att testa.
 
-## Testa dig själv
-
-1. Varför är det ofta billigare att hitta ett fel i en simulering än i en färdig prototyp?
-2. Vad betyder det att ett krav är verifierbart? Ge ett eget exempel.
-3. Varför hör återvinning hemma redan när du ställer krav?
-4. Vad är skillnaden mellan ett ska-krav och ett bör-krav?
-5. När passar iterativt arbete bättre än stegvis planering?
-6. Varför är en komponentlista mer än en inköpslista?
-7. Hur kan otydliga roller i en grupp göra att en uppgift inte blir gjord?
-
 ## Koppling till projektet
 
 Arbetssättet används i alla projekt. Tydligast syns det i [Robotmopp](../projekt/robotmopp/README.md), där du börjar med projektplan och komponentlista, och i [MikroGrid](../projekt/mikrogrid/README.md), där dimensionering och verifiering av krav står i centrum. I [Laserskär](../projekt/laserskar/README.md) går du igenom hela kedjan i liten skala.

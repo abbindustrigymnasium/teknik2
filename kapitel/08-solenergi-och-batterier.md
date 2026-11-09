@@ -127,16 +127,6 @@ En multimeter i strömläge ska kopplas i **serie**, och en voltmeter **parallel
 - **Linjär laddare:** laddare där överskottsspänningen blir värme.
 - **Dimensionering:** att beräkna vilka storlekar som krävs.
 
-## Testa dig själv
-
-1. Varför är effekten noll både vid tomgång och kortslutning?
-2. Varför kan du mäta lägre effekt än märkeffekten?
-3. Vad händer med energi när en linjär laddare arbetar?
-4. Vad skiljer kapacitet i mAh från energi i Wh?
-5. Varför är minskad förbrukning ofta bättre än en större panel?
-6. Hur ska en amperemeter kopplas?
-7. Varför är antagandena i en dimensionering viktiga att skriva ut?
-
 ## Koppling till projektet
 
 Det här är grunden för [MikroGrid](../projekt/mikrogrid/README.md). Du mäter IV-kurvor, dimensionerar ett system och kontrollerar att beräkningarna stämmer. Eftersom ni ska mäta under belastning hör [kapitel 6](06-kvalitet-och-risk.md) ihop med det här kapitlet.

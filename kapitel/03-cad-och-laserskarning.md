@@ -107,16 +107,6 @@ Laserskärning ger rök och heta partiklar. Följ alltid lärarens genomgång. G
 - **Skärbredd (kerf):** den bredd laserskäret tar bort.
 - **Presspassning:** delar som hålls ihop av friktion.
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan en CAD-modell och en ritning?
-2. Varför ska du inte mäta på en ritning med linjal?
-3. Varför blir en laserskuren tapp mindre än det ritade måttet?
-4. Varför sätter man upp en provskärning innan man skär slutversionen?
-5. Hur hjälper en assembly dig att hitta fel tidigt?
-6. Varför ska smala delar läggas längs fiberriktningen?
-7. Varför är det viktigt att mäta skivans tjocklek?
-
 ## Koppling till projektet
 
 I [Laserskär](../projekt/laserskar/README.md) använder du allt från det här kapitlet: delar i Onshape, assembly, kompensation för skärbredd och DXF-export. Samma tänkande om mått och monteringsbarhet använder du när du ritar chassit i [Robotmopp](../projekt/robotmopp/README.md).

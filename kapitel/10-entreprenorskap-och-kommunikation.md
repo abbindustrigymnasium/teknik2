@@ -111,16 +111,6 @@ Anpassa språket efter lyssnaren. En klasskamrat, en elingenjör och en kund beh
 - **Kretsschema:** ritning över elektriska kopplingar.
 - **Versionshantering:** verktyg för att spara och följa ändringar.
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan en uppfinning och en innovation?
-2. Varför är det klokt att testa en idé tidigt med enkla medel?
-3. Vilka villkor kan göra att en bra idé ändå inte går att genomföra?
-4. Vad skiljer fasta kostnader från rörliga?
-5. Varför ska resultat och tolkning hållas isär i en rapport?
-6. Vad ska finnas i ett diagram för att det ska kunna läsas på egen hand?
-7. Varför ska du redovisa sådant som inte fungerade?
-
 ## Koppling till projektet
 
 Kapitlet används i slutet av varje projekt. I [MikroGrid](../projekt/mikrogrid/README.md) sammanställer du en teknisk rapport och visar prototypen på en teknisk mässa. I [Robotmopp](../projekt/robotmopp/README.md) visar du en demo på robotbanan. I [Laserskär](../projekt/laserskar/README.md) dokumenterar du konstruktionen, och i [Databaser och mobil apputveckling](../projekt/databaser-och-mobilapp/README.md) visar du designen och appen.

@@ -8,7 +8,7 @@ En översikt över kursen, dess delar och projekt: [Teknik 2 - Kurspresentation.
 
 ## Så använder du boken
 
-Boken är skriven för att läsas tillsammans med projekten. Läs kapitlet före det projekt det förbereder, och använd "Testa dig själv" för att se om du har förstått. Länkarna under "Läs mer" leder till källor och fördjupning.
+Boken är skriven för att läsas tillsammans med projekten. Läs kapitlet före det projekt det förbereder. Länkarna under "Läs mer" leder till källor och fördjupning.
 
 ## Innehåll
 

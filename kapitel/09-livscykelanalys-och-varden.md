@@ -100,17 +100,6 @@ Den tekniska utvecklingen rör sig snabbt. Solceller med nya halvledarmaterial, 
 - **Hydrometallurgi:** utvinning av metaller med vätskor.
 - **Genus:** föreställningar om kön och hur de formar samhället.
 
-## Testa dig själv
-
-1. Varför behövs en funktionell enhet?
-2. Vilka fyra delar består en LCA av?
-3. Varför kan en produkt med högre tillverkningsutsläpp ändå vara bättre?
-4. Vad är energiåterbetalningstid och vad beror den på?
-5. Varför är det viktigt att läsa källor om koboltbrytning kritiskt?
-6. Hur kan konstruktionen göra en produkt mer cirkulär?
-7. Ge ett eget exempel på hur antaganden om användare kan göra en produkt sämre för vissa.
-8. Hur skiljer du på demonstrerad teknik och teknik i stor skala?
-
 ## Koppling till projektet
 
 I fas 4 av [MikroGrid](../projekt/mikrogrid/README.md) ska du göra en analys av solenergisystemets värdekedja, från råvara till återvinning, och väga miljövinster mot sociala och etiska frågor. Med tankesättet från kapitlet går det också att granska [Robotmopp](../projekt/robotmopp/README.md) och [Laserskär](../projekt/laserskar/README.md).

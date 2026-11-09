@@ -136,16 +136,6 @@ Vid 0,36 m/s tar det 17,75 / 0,36 ≈ 49 sekunder. Det är den bästa tänkbara 
 - **Dödmansgrepp:** funktion som stoppar maskinen om kommandon uteblir.
 - **Tillståndsmaskin:** beteende uppdelat i tillstånd och övergångar.
 
-## Testa dig själv
-
-1. Varför testas programmet i simulering först?
-2. Nämn två saker som turtlesim inte visar om bilen.
-3. Vad är fördelen med att dela upp programmet i noder?
-4. Varför körs inte ROS2 på ESP8266?
-5. Varför ligger dödmansgreppet i bilens firmware?
-6. Varför används tillståndet BACKA_SVANG i stället för att svänga på stället?
-7. Varför kan tiden 49 sekunder inte uppnås i verkligheten på arenan?
-
 ## Koppling till projektet
 
 Kapitlet är grunden för [Robotmopp](../projekt/robotmopp/README.md). Labb 8 gör simuleringen, labb 9 kopplar ROS2 till bilen via bryggan, och labb 10 flyttar städlogiken till golvet och jämför resultaten med simuleringen.

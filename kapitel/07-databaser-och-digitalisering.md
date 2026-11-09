@@ -122,16 +122,6 @@ Digitalisering är inte automatiskt bra eller dålig. Vem som vinner och förlor
 - **Personuppgift:** uppgift som kan kopplas till en person.
 - **Dataminimering:** att bara samla in det som behövs.
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan primärnyckel och främmande nyckel?
-2. Varför behövs en kopplingstabell för N:M-relationer?
-3. Varför är det dåligt att spara samma uppgift på flera ställen?
-4. Vad händer om en API-regel är tom?
-5. Varför ska frågor testas med data du känner till?
-6. Vad innebär dataminimering? Ge ett exempel.
-7. Vilka två fördelar och två risker ser du med digitalisering i en fabrik?
-
 ## Koppling till projektet
 
 I [Databaser och mobil apputveckling](../projekt/databaser-och-mobilapp/README.md) designar du databasen för ert förstudieprojekt, bygger Kvittra i PocketBase och gör en Flutter-app som pratar med den. Kapitlets modell med tabeller, relationer och regler använder du direkt.

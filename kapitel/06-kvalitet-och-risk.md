@@ -114,16 +114,6 @@ Litiumbatterier innehåller mycket energi i liten volym. Vid kortslutning, mekan
 - **Miljösäkring:** att hantera miljöpåverkan som en del av arbetet.
 - **Systematiskt arbetsmiljöarbete:** att undersöka, bedöma, åtgärda och följa upp risker i arbetet.
 
-## Testa dig själv
-
-1. Varför räcker det inte att en produkt har fungerat en gång?
-2. Varför ska du ändra en sak i taget i ett test?
-3. Vad är skillnaden mellan medelvärde och median? När är medianen bättre?
-4. Varför ska du inte automatiskt ta bort avvikande mätvärden?
-5. Vad skiljer risktal från ditt eget omdöme?
-6. Vad betyder D i FMEA?
-7. Vilka tre orsaker kan få ett litiumbatteri att överhettas och börja brinna?
-
 ## Koppling till projektet
 
 I [Robotmopp](../projekt/robotmopp/README.md) följer du ett mätprotokoll på arenan och jämför körningar. I [MikroGrid](../projekt/mikrogrid/README.md) ingår en enkel riskanalys för batterihantering och kvalitetssäkring genom belastningstester. I [Databaser och mobil apputveckling](../projekt/databaser-och-mobilapp/README.md) tillämpar du samma tänkande på testning av regler och funktioner.
