@@ -2,6 +2,10 @@
 
 Kursen handlar om att gå från ett behov till en lösning som faktiskt fungerar. Du bygger en mobilhållare i trä, en robot som städar en arena, en app som lagrar data och ett litet energisystem med solpanel och batteri. På vägen lär du dig material, elektronik, programmering, modeller, kvalitetsarbete och hur tekniken påverkar människor och miljö.
 
+## Kurspresentation
+
+En översikt över kursen, dess delar och projekt: [Teknik 2 - Kurspresentation.pptx](Teknik%202%20-%20Kurspresentation.pptx)
+
 ## Så använder du boken
 
 Boken är skriven för att läsas tillsammans med projekten. Läs kapitlet före det projekt det förbereder, gör övningarna och använd "Testa dig själv" för att se om du har förstått. Svar på räkneuppgifter finns under "Svar", men försök själv först. Länkarna under "Läs mer" leder till källor och fördjupning.
